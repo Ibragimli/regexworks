@@ -6,4 +6,4 @@ gun hissesi 01-31 araliginda olmalidir
 2)Verilmir metnde telefon nomrelerini tapan regex.Telefon nomresi (+994)055-497-83-03 seklinde olmalidir , son videoda daha etrafli izah 
 etmisem ev tapsiriqlarini
 
-[?(\+4|9?)]{4,6}[?01|5?-]{2,4}[0-9?-]{3,4}[0-9?-]{2,3}[0-9?-]{2,3}
+[?(\+4|9?)]{4,6}[?01|5|7?-]{2,4}[0-9?-]{3,4}[0-9?-]{2,3}[0-9?-]{2,3}
